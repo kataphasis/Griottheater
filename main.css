@@ -1,0 +1,30 @@
+header {
+  background-color: black;
+}
+
+
+
+
+
+#up-top {
+  font-size = 40px;
+}
+
+.thumbnail {
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  top: 25%;
+  left: 0;
+  width: 100%;
+  align-items: center;
+}
+
+
+footer {
+  color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+}
